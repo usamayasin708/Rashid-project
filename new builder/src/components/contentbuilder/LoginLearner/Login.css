@@ -1,0 +1,69 @@
+.sign_up_tech{
+    background: url('../Login/images/GettyImages-875575944.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position:center,center;
+    height: 757px;
+}
+.sing_up_move {
+    padding-top: 190px;
+}
+.sign_up_tech:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(225,255,255,0.6);
+}
+.sign_up_form {
+    background: rgba(255,255,255,0.6);
+    padding: 20px;
+}
+.sign_up_form h4 {
+    font-size: 25px;
+    padding: 10px 0;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+input.form-control.sign_up_control {
+    height: 50px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+input.btn.btn-pmary.btn-primary {
+    width: 100%;
+    border: 0;
+    height: 50px;
+    margin: 10px 0;
+}
+.form-group.group_label label {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.sign_up_head {
+    padding-top: 50px;
+}
+.sign_up_head h1 {
+    font-size: 42px;
+    font-weight: 600;
+}
+.sign_up_head h1 span
+{
+    font-size: 42px;
+    font-weight: 600;
+ color:#5CDB95;
+}
+.hre_sign_up {
+    padding: 15px 0px;
+    text-align: center;
+}
+a.already-sign {
+    font-size: 18px;
+    font-weight: 700;
+    color:#009E91;
+}

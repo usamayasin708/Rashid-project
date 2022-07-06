@@ -1,0 +1,1285 @@
+/*-------------------------------
+    Drag and Drop Responsive
+---------------------------------*/
+@media only screen and (min-width: 940px) and (max-width: 950px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 29.5% !important;
+        width: 647px !important;
+    }
+}
+@media only screen and (min-width: 950px) and (max-width: 960px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.1% !important;
+        width: 647px !important;
+    }
+}
+@media only screen and (min-width: 960px) and (max-width: 970px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.1% !important;
+        width: 650px !important;
+    }
+}
+@media only screen and (min-width: 970px) and (max-width: 980px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.1% !important;
+        width: 657px !important;
+    }
+}
+@media only screen and (min-width: 980px) and (max-width: 990px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.6% !important;
+        width: 662px !important;
+    }
+}
+@media only screen and (min-width: 990px) and (max-width: 1000px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.6% !important;
+        width: 665px !important;
+    }
+}
+@media only screen and (min-width: 1000px) and (max-width: 1010px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.4% !important;
+        width: 677px !important;
+    }
+}
+@media only screen and (min-width: 1010px) and (max-width: 1020px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 30.2% !important;
+        width: 684px !important;
+    }
+}
+@media only screen and (min-width: 1020px) and (max-width: 1030px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 28.4% !important;
+        width: 708px !important;
+    }
+}
+@media only screen and (min-width: 1030px) and (max-width: 1040px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 28% !important;
+        width: 722px !important;    
+    }
+}
+@media only screen and (min-width: 1040px) and (max-width: 1050px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 27.9% !important;
+        width: 730px !important;  
+    }
+}
+@media only screen and (min-width: 1050px) and (max-width: 1065px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 27.6% !important;
+        width: 740px !important;    
+    }
+}
+@media only screen and (min-width: 1065px) and (max-width: 1080px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 27.4% !important;
+        width: 748px !important;    
+    }
+}
+@media only screen and (min-width: 1080px) and (max-width: 1095px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 26.8% !important;
+        width: 772px !important;    
+    }
+}
+@media only screen and (min-width: 1095px) and (max-width: 1110px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 26.5% !important;
+        width: 782px !important;    
+    }
+}
+@media only screen and (min-width: 1110px) and (max-width: 1125px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 26.2% !important;
+        width: 800px !important;    
+    }
+}
+@media only screen and (min-width: 1125px) and (max-width: 1140px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 25.9% !important;
+        width: 816px !important;    
+    }
+}
+@media only screen and (min-width: 1140px) and (max-width: 1155px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 25.6% !important;
+        width: 830px !important;    
+    }
+}
+@media only screen and (min-width: 1155px) and (max-width: 1170px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 25.2% !important;
+        width: 847px !important;    
+    }
+}
+@media only screen and (min-width: 1170px) and (max-width: 1185px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 24.8% !important;
+        width: 861px !important;    
+    }
+}
+@media only screen and (min-width: 1185px) and (max-width: 1200px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 24.4% !important;
+        width: 875px !important;    
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1215px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 24% !important;
+        width: 888px !important;    
+    }
+}
+@media only screen and (min-width: 1215px) and (max-width: 1230px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 23.6% !important;
+        width: 914px !important;    
+    }
+}
+@media only screen and (min-width: 1230px) and (max-width: 1245px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 23.2% !important;
+        width: 928px !important;    
+    }
+}
+@media only screen and (min-width: 1245px) and (max-width: 1255px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 23% !important;
+        width: 940px !important;    
+    }
+}
+@media only screen and (min-width: 1255px) and (max-width: 1270px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 22.6% !important;
+        width: 955px !important;    
+    }
+}
+@media only screen and (min-width: 1270px) and (max-width: 1285px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 22.4% !important;
+        width: 971px !important;    
+    }
+}
+@media only screen and (min-width: 1285px) and (max-width: 1300px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 22.2% !important;
+        width: 980px !important;    
+    }
+}
+@media only screen and (min-width: 1300px) and (max-width: 1310px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 22.1% !important;
+        width: 992px !important;    
+    }
+}
+@media only screen and (min-width: 1310px) and (max-width: 1325px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 21.9% !important;
+        width: 1006px !important;    
+    }
+}
+@media only screen and (min-width: 1325px) and (max-width: 1340px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 21.6% !important;
+        width: 1020px !important;    
+    }
+}
+@media only screen and (min-width: 1340px) and (max-width: 1355px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 21.3% !important;
+        width: 1035px !important;    
+    }
+}
+@media only screen and (min-width: 1355px) and (max-width: 1370px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 21% !important;
+        width: 1055px !important;    
+    }
+}
+@media only screen and (min-width: 1370px) and (max-width: 1385px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 20.7% !important;
+        width: 1075px !important;    
+    }
+}
+@media only screen and (min-width: 1385px) and (max-width: 1400px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 20.4% !important;
+        width: 1088px !important;    
+    }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1410px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 20.4% !important;
+        width: 1100px !important;    
+    }
+}
+@media only screen and (min-width: 1410px) and (max-width: 1425px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 20.2% !important;
+        width: 1110px !important;    
+    }
+}
+@media only screen and (min-width: 1425px) and (max-width: 1440px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 20% !important;
+        width: 1122px !important;    
+    }
+}
+@media only screen and (min-width: 1440px) and (max-width: 1455px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.7% !important;
+        width: 1140px !important;    
+    }
+}
+@media only screen and (min-width: 1455px) and (max-width: 1470px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.4% !important;
+        width: 1155px !important;    
+    }
+}
+@media only screen and (min-width: 1470px) and (max-width: 1485px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.5% !important;
+        width: 1167px !important;    
+    }
+}
+@media only screen and (min-width: 1485px) and (max-width: 1500px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.5% !important;
+        width: 1178px !important;    
+    }
+}
+@media only screen and (min-width: 1500px) and (max-width: 1510px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.3% !important;
+        width: 1188px !important;    
+    }
+}
+@media only screen and (min-width: 1510px) and (max-width: 1525px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 19.2% !important;
+        width: 1200px !important;    
+    }
+}
+@media only screen and (min-width: 1525px) and (max-width: 1540px)
+{
+    .tutor-main-section-container {
+        margin: auto 19% !important;
+        width: 1220px !important;    
+    }
+    .learner_main_container
+     {
+        margin: auto 17% !important;
+        width: 1260px !important;    
+    }
+}
+@media only screen and (min-width: 1540px) and (max-width: 1555px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 18.7% !important;
+        width: 1230px !important;    
+    }
+}
+@media only screen and (min-width: 1555px) and (max-width: 1570px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 18.5% !important;
+        width: 1250px !important;    
+    }
+}
+@media only screen and (min-width: 1570px) and (max-width: 1600px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 18.3% !important;
+        width: 1270px !important;    
+    }
+}
+@media only screen and (min-width: 1600px) and (max-width: 1630px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 18% !important;
+        width: 1298px !important;    
+    }
+}
+@media only screen and (min-width: 1630px) and (max-width: 1660px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17.8% !important;
+        width: 1320px !important;    
+    }
+}
+@media only screen and (min-width: 1660px) and (max-width: 1690px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17.6% !important;
+        width: 1350px !important;    
+    }
+}
+@media only screen and (min-width: 1690px) and (max-width: 1720px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17.4% !important;
+        width: 1380px !important;    
+    }
+}
+
+@media only screen and (min-width: 1720px) and (max-width: 1750px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17.2% !important;
+        width: 1400px !important;    
+    }
+}
+@media only screen and (min-width: 1750px) and (max-width: 1780px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17% !important;
+        width: 1400px !important;    
+    }
+}
+@media only screen and (min-width: 1780px) and (max-width: 1820px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17% !important;
+        width: 1400px !important;    
+    }
+}
+@media only screen and (min-width: 1820px) and (max-width: 1850px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17% !important;
+        width: 1400px !important;    
+    }
+}
+@media only screen and (min-width: 1850px) and (max-width: 1880px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17% !important;
+        width: 1400px !important;    
+    }
+}
+@media only screen and (min-width: 1880px) and (max-width: 1900px)
+{
+    .learner_main_container,
+    .tutor-main-section-container {
+        margin: auto 17% !important;
+        width: 1400px !important;    
+    }
+}
+
+
+
+
+
+/*------320px to 620-----------
+------------------------------ */
+@media only screen 
+
+and (min-device-width: 320px) 
+
+and (max-device-width: 600px)
+
+and (-webkit-min-device-pixel-ratio: 2) 
+
+{
+
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 20% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -167px !important;
+        top: 78px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 185px !important;
+    }
+    .empower,
+    .empowers,
+    .screen_element,
+    #_cbhtml .is-rte-tool {
+        display: none !important;
+        /* top: 81px !important; */
+        /* right: 0px; */
+        /* margin-left: -63px; */
+    }
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 700px)
+{
+ 
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 20% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 120px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -107px !important;
+        top: 78px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 185px !important;
+    }
+    .empower,
+    .empowers,
+    .screen_element,
+    #_cbhtml .is-rte-tool {
+        display: none !important;
+        /* top: 81px !important; */
+        /* right: 0px; */
+        /* margin-left: -63px; */
+    }
+
+}
+
+
+@media only screen and (min-width: 700px) and (max-width: 768px)
+{
+ 
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 20% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 140px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -90px !important;
+        top: 78px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 185px !important;
+    }
+    .empower,
+    .empowers,
+    .screen_element,
+    #_cbhtml .is-rte-tool {
+        display: none !important;
+        /* top: 81px !important; */
+        /* right: 0px; */
+        /* margin-left: -63px; */
+    }
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 820px)
+{
+ 
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 12% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 92px !important;
+        top: -6px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -136px !important;
+        top: 78px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 185px !important;
+    }
+    .screen_element,
+    #_cbhtml .is-rte-tool {
+        display: none !important;
+        /* top: 81px !important; */
+        /* right: 0px; */
+        /* margin-left: -63px; */
+    }
+    .pagination {
+        right: 15% !important;
+    }
+    .empowers {
+        right: 13% !important;
+    }
+
+}
+
+@media only screen and (min-width: 820px) and (max-width: 900px)
+{
+ 
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -137px !important;
+        margin-right: 210px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft #divSnippetHandle, .is-ui #divSnippetList.fromleft #divSnippetHandle
+    {
+        display: block !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 69px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -120px !important;
+        top: -6px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 190px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 150px !important;
+    }
+    .empower {
+        right: 12% !important;
+    }
+    .pagination {
+        right: 20% !important;
+    }
+    .empowers {
+        right: 16.5% !important;
+    }
+    .tutor_current_page {
+        right: 21% !important;
+    }
+    
+}
+
+@media only screen and (min-width: 900px) and (max-width: 945px)
+{
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    .edit_collection ul li img {
+        max-width: 72px !important;
+    }
+    .edit_collection ul li.tutor-list-imging {
+        margin-right: 2px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -137px !important;
+        margin-right: 210px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 87% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 70px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -118px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 190px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 150px !important;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 36px !important;
+    }
+    .pagination {
+        right: 19.5% !important;
+    }
+}
+
+@media only screen and (min-width: 945px) and (max-width: 980px)
+{
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    .edit_collection ul li img {
+        max-width: 72px !important;
+    }
+    .edit_collection ul li.tutor-list-imging {
+        margin-right: 2px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 80px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 80px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -135px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 190px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 150px !important;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 36px !important;
+    }
+    .pagination {
+        right: 19% !important;
+    }
+}
+
+
+@media only screen and (min-width: 980px) and (max-width: 1020px)
+{
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 90% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89.4%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -135px !important;
+        top: 78px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 36px !important;
+    }
+    .pagination {
+        right: 17.9% !important;
+    }
+}
+
+@media only screen and (min-width: 1020px) and (max-width: 1080px)
+{
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -80px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -134px !important;
+        top: 78px !important;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 38px !important;
+    }
+    .pagination {
+        right: 17% !important;
+    }
+}
+
+
+@media only screen and (min-width: 1080px) and (max-width: 1140px)
+{
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -80px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -130px !important;
+        top: 78px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 38px !important;
+    }
+    .pagination {
+        right: 16.5% !important;
+    }
+}
+
+@media only screen and (min-width: 1140px) and (max-width: 1200px)
+{
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -90px !important;
+        top: 78px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+    #_cbhtml .is-rte-tool button, #_cbhtml .is-elementrte-tool button, #_cbhtml .is-rte-pop.rte-more-options button, #_cbhtml .is-rte-pop.elementrte-more-options button, .is-ui .is-rte-tool button, .is-ui .is-elementrte-tool button, .is-ui .is-rte-pop.rte-more-options button, .is-ui .is-rte-pop.elementrte-more-options button
+    {
+        width: 38px !important;
+    }
+    .pagination {
+        right: 15.5% !important;
+    }    
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1240px)
+{    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    .extra_customer_two.new-input-add {
+        top: -68px !important;
+    }
+/*     #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 106px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -123px !important;
+        top: 78px !important;
+    } */
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    .pagination {
+        right: 14.4% !important;
+    }
+}
+@media only screen and (min-width: 1243px) and (max-width: 1280px)
+{
+    /* #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 106px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -123px !important;
+        top: 78px !important;
+    } */
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    .pagination {
+        right: 14% !important;
+    }
+}
+@media only screen and (min-width: 1280px) and (max-width: 1320px)
+{
+    /* #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 106px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -123px !important;
+        top: 78px !important;
+    } */
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    .container, .container-md, .container-sm {
+        max-width: 1110px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool {
+        margin-left: 25px;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    .pagination {
+        right: 13% !important;
+    }
+}
+@media only screen and (min-width: 1320px) and (max-width: 1380px)
+{
+    /* #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 106px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -123px !important;
+        top: 78px !important;
+    } */
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 89%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 88.5% !important;
+    }
+    .pagination {
+        right: 13% !important;
+    }    
+}
+@media only screen and (min-width: 1380px) and (max-width: 1450px)
+{
+    /* #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 105px !important;
+        top: 78px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft, .is-ui #divSnippetList.fromleft {
+        left: -123px !important;
+        top: 78px !important;
+    } */
+
+    #_cbhtml .is-rte-tool, #_cbhtml .is-elementrte-tool, .is-ui .is-rte-tool, .is-ui .is-elementrte-tool
+    {
+        margin-left: -75px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 89.5% !important;
+    }
+    .pagination {
+        right: 12.5% !important;
+    }    
+}
+@media only screen and (min-width: 1450px) and (max-width: 1480px)
+{
+    .container, .container-md, .container-sm {
+        max-width: 1230px !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1450px) and (max-width: 1500px)
+{
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 90% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1500px) and (max-width: 1550px)
+{
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        height: 90% !important;
+    }
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1550px) and (max-width: 1600px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1600px) and (max-width: 1650px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1650px) and (max-width: 1700px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1700px) and (max-width: 1750px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1750px) and (max-width: 1800px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1800px) and (max-width: 1850px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1850px) and (max-width: 1900px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
+@media only screen and (min-width: 1850px) and (max-width: 1900px)
+{
+    #_cbhtml #divSnippetList.fromleft.active, .is-ui #divSnippetList.fromleft.active {
+        left: 64px !important;
+        top: -6px !important;
+        height: 90%;
+    }
+    #_cbhtml .is-selectbox-options, .is-ui .is-selectbox-options {
+        width: 70px !important;
+    }
+    #_cbhtml .is-design-list > div, .is-ui .is-design-list > div {
+        width: 170px !important;
+    }
+    #_cbhtml #divSnippetList, .is-ui #divSnippetList {
+        width: 205px !important;
+    }
+}
